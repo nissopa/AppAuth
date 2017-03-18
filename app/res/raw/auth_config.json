@@ -1,10 +1,10 @@
 {
-  "client_id": "",
+  "client_id": "326182485265-d8ojbvmv0rocf1t3c44hopktn9opponp.apps.googleusercontent.com",
   "redirect_uri": "net.openid.appauthdemo:/oauth2redirect",
   "authorization_scope": "openid email profile",
-  "discovery_uri": "",
-  "authorization_endpoint_uri": "",
-  "token_endpoint_uri": "",
+  "discovery_uri": "https://accounts.google.com/.well-known/openid-configuration",
+  "authorization_endpoint_uri": "https://www.googleapis.com/auth/youtubepartner-channel-audit",
+  "token_endpoint_uri": "https://www.googleapis.com/oauth2/v4/token",
   "registration_endpoint_uri": "",
   "https_required": true
 }
